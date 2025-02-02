@@ -1,12 +1,11 @@
-# DELOITTE_VIRTUAL_INTERN
+# Deloitte Australia Internship
 
-Deloitte Australia - Technology Virtual Experience Program
 ![Deloitte](https://github.com/user-attachments/assets/56b06d8a-f549-48a0-a5d1-37c666eeb9f1)
 
 # Completion Certificate link: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/YPWCiGNTkr6QxcpEu_9PBTqmSxAf6zZTseP_6iQKa3ufrkKhLxoLx_1737731944678_completion_certificate.pdf)
 
 
-# Deloitte Forage
+# Deloitte Australia - Technology Virtual Experience Program Forage
 
 This repository contains my submission for the Deloitte STEM Virtual Program. In this program, students are asked to help Daikibo Industrials (a global leader in manufacturing of heavy machinery) with a variety of problems that they are facing.
 
